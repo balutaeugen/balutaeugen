@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Objective-C" height="26px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
 [<img align="left" alt="C#" height="26px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
 [<img align="left" alt="Unity" height="26px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />][unity]
-[<img align="left" alt="Firebase" height="26px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=blac" />][firebase]
+[<img align="left" alt="Firebase" height="26px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />][firebase]
 
 <br />
 <br />
