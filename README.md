@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Eugene - aka M1DLL3 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/baluta_eugen)
+[![Twitter Follow](https://img.shields.io/twitter/follow/baluta_eugen?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/baluta_eugen)
 
 ## I'm a Middle iOS Developer, always learning new stuff 
 
