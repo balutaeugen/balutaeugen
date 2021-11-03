@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Swift" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
-[<img align="left" alt="Objective-C" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objc]
+[<img align="left" alt="Swift" height="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />][swift]
+[<img align="left" alt="Objective-C" height="26px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
 [<img align="left" alt="C#" height="26px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
-[<img align="left" alt="Unity" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
-[<img align="left" alt="Firebase" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
+[<img align="left" alt="Unity" height="26px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />][unity]
+[<img align="left" alt="Firebase" height="26px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=blac" />][firebase]
 
 <br />
 <br />
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/baluta-eugen-492191166/
 
 [swift]: https://swift.org/
-[objc]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[flutter]: https://flutter.dev/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 [unity]: https://unity.com/
 [firebase]: https://firebase.google.com/
