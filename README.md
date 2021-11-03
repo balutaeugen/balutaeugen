@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Baluta Eugen | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Baluta Eugen | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Baluta Eugen | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Baluta Eugen | Twitter" height="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Baluta Eugen | LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Baluta Eugen | Instagram" height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Swift" height="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />][swift]
-[<img align="left" alt="Objective-C" height="26px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
-[<img align="left" alt="C#" height="26px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
-[<img align="left" alt="Unity" height="26px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />][unity]
-[<img align="left" alt="Firebase" height="26px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />][firebase]
+[<img align="left" alt="Swift" height="30px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />][swift]
+[<img align="left" alt="Objective-C" height="30px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
+[<img align="left" alt="C#" height="30px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
+[<img align="left" alt="Unity" height="30px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />][unity]
+[<img align="left" alt="Firebase" height="30px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />][firebase]
 
 <br />
 <br />
