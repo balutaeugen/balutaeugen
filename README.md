@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## I'm a Middle iOS Developer, always learning new stuff 
 
-- 🔭 I have more then 4 years of experience on coding on iOS
+- 🔭 I have more then 5 years of experience on coding on iOS
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to expand my knowlegde on MacOS developing, as well as Flutter
+- 👯 I’m looking to expand my knowlegde on MacOS developing
 - ⚡ Fun fact: I love to play RTS games
 
 ### Connect with me:
