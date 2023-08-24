@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/baluta_eugen?label=Follow%20me%20on%20Twitter&color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/baluta_eugen)
 
 
-## I'm a Middle iOS Developer, always learning new stuff 
+## I'm a Senior iOS Developer, always learning new stuff 
 
 - 🔭 I have more then 5 years of experience on coding on iOS
 - 🌱 I’m currently learning everything
